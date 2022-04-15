@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 APR 2022 00:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 APR 2022 00:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1018,7 +1018,7 @@ Package microtype Info: Character `029' is missing
 
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/Martha_Chase_and_Alfred_Hershey_Experiment.png, id=38, 538.01pt x 425.59pt>
+<images/Martha_Chase_and_Alfred_Hershey_Experiment.png, id=39, 538.01pt x 425.59pt>
 File: images/Martha_Chase_and_Alfred_Hershey_Experiment.png Graphic file (type png)
 <use images/Martha_Chase_and_Alfred_Hershey_Experiment.png>
 Package pdftex.def Info: images/Martha_Chase_and_Alfred_Hershey_Experiment.png  used on input line 27.
@@ -1031,13 +1031,13 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [2 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/Martha_Chase_and_Alfred_Hershey_Experiment.png>]
-<images/Watson_and_Crick.png, id=57, 570.13pt x 557.08125pt>
+<images/Watson_and_Crick.png, id=58, 570.13pt x 557.08125pt>
 File: images/Watson_and_Crick.png Graphic file (type png)
 <use images/Watson_and_Crick.png>
 Package pdftex.def Info: images/Watson_and_Crick.png  used on input line 43.
 (pdftex.def)             Requested size: 222.00226pt x 216.92079pt.
 ) (/Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/Late_1900s.tex
-<images/Protain_seq_milestones.png, id=64, 1234.6125pt x 512.91624pt>
+<images/Protain_seq_milestones.png, id=65, 1234.6125pt x 512.91624pt>
 File: images/Protain_seq_milestones.png Graphic file (type png)
 <use images/Protain_seq_milestones.png>
 Package pdftex.def Info: images/Protain_seq_milestones.png  used on input line 11.
@@ -1045,7 +1045,7 @@ Package pdftex.def Info: images/Protain_seq_milestones.png  used on input line 1
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
  [3 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/Watson_and_Crick.png>]
-<images/COMPROTEIN.png, id=81, 927.465pt x 751.80875pt>
+<images/COMPROTEIN.png, id=82, 927.465pt x 751.80875pt>
 File: images/COMPROTEIN.png Graphic file (type png)
 <use images/COMPROTEIN.png>
 Package pdftex.def Info: images/COMPROTEIN.png  used on input line 30.
@@ -1055,7 +1055,7 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
 LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
  [4 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/Protain_seq_milestones.png> </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/COMPROTEIN.png>]
-<images/evolution.png, id=99, 779.91376pt x 633.36626pt>
+<images/evolution.png, id=100, 779.91376pt x 633.36626pt>
 File: images/evolution.png Graphic file (type png)
 <use images/evolution.png>
 Package pdftex.def Info: images/evolution.png  used on input line 69.
@@ -1063,7 +1063,7 @@ Package pdftex.def Info: images/evolution.png  used on input line 69.
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
  [5 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/evolution.png>]) (/Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/1990s.tex
-<images/human_genome_project.png, id=112, 750.805pt x 506.89375pt>
+<images/human_genome_project.png, id=113, 750.805pt x 506.89375pt>
 File: images/human_genome_project.png Graphic file (type png)
 <use images/human_genome_project.png>
 Package pdftex.def Info: images/human_genome_project.png  used on input line 9.
@@ -1071,13 +1071,13 @@ Package pdftex.def Info: images/human_genome_project.png  used on input line 9.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  [6 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/human_genome_project.png>]
-<images/Central_Dogma.png, id=134, 579.16376pt x 620.3175pt>
+<images/Central_Dogma.png, id=135, 579.16376pt x 620.3175pt>
 File: images/Central_Dogma.png Graphic file (type png)
 <use images/Central_Dogma.png>
 Package pdftex.def Info: images/Central_Dogma.png  used on input line 27.
 (pdftex.def)             Requested size: 258.99887pt x 277.39868pt.
 ) (/Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/XXI_century.tex
-<images/Dat_trend.png, id=139, 1080.035pt x 663.47874pt>
+<images/Dat_trend.png, id=140, 1080.035pt x 663.47874pt>
 File: images/Dat_trend.png Graphic file (type png)
 <use images/Dat_trend.png>
 Package pdftex.def Info: images/Dat_trend.png  used on input line 5.
@@ -1088,7 +1088,7 @@ LaTeX Info: Redefining \% on input line 24.
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
  [8 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/Dat_trend.png>]
-<images/Ecoli_growth.png, id=165, 826.08624pt x 518.93875pt>
+<images/Ecoli_growth.png, id=166, 826.08624pt x 518.93875pt>
 File: images/Ecoli_growth.png Graphic file (type png)
 <use images/Ecoli_growth.png>
 Package pdftex.def Info: images/Ecoli_growth.png  used on input line 51.
@@ -1096,13 +1096,13 @@ Package pdftex.def Info: images/Ecoli_growth.png  used on input line 51.
 LaTeX Info: Redefining \. on input line 79.
 LaTeX Info: Redefining \% on input line 79.
  [9 </Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/images/Ecoli_growth.png>]
-<images/Deep_Mind.png, id=181, 1030.85126pt x 548.0475pt>
+<images/Deep_Mind.png, id=182, 1030.85126pt x 548.0475pt>
 File: images/Deep_Mind.png Graphic file (type png)
 <use images/Deep_Mind.png>
 Package pdftex.def Info: images/Deep_Mind.png  used on input line 82.
 (pdftex.def)             Requested size: 332.99774pt x 177.03456pt.
 ) (/Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/quo_Vadis.tex
-<images/survey.png, id=184, 1068.99374pt x 727.71875pt>
+<images/survey.png, id=185, 1068.99374pt x 727.71875pt>
 File: images/survey.png Graphic file (type png)
 <use images/survey.png>
 Package pdftex.def Info: images/survey.png  used on input line 6.
@@ -1116,34 +1116,34 @@ LaTeX Info: Redefining \% on input line 36.
 LaTeX Info: Redefining \. on input line 139.
 LaTeX Info: Redefining \% on input line 139.
  [12])
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
  [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (/Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/Computation_and_Biology.aux
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `Computation_and_Biology.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
  25970 strings out of 492616
  490450 string characters out of 6129482
- 827843 words of memory out of 5000000
+ 828843 words of memory out of 5000000
  29424 multiletter control sequences out of 15000+600000
  655665 words of font info for 198 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  67i,22n,89p,9191b,778s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/Computation_and_Biology.pdf (13 pages, 4578124 bytes).
+Output written on /Users/Pereiro/University/Teaching/fbio.uh.cu/Computación/CONF/Computation_and_Biology/Computation_and_Biology.pdf (13 pages, 4578368 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 241 compressed objects within 3 object streams
+ 305 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
  66 named destinations out of 1000 (max. 500000)
  37480 words of extra memory for PDF output out of 42996 (max. 10000000)
 
