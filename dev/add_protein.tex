@@ -1,0 +1,29 @@
+%----------------------------------------------------------------------------------------
+\section{To Add Protein}
+
+Tenemos una proteína cuya velocidad de producción es 'qP' y secuencia 'ABB'.
+Ahora las equaciones de balance para 'A' y 'B' cambian.
+
+A: $\sum_j^N S_{Aj} v_j - 1 qP = 0$
+
+B: $\sum_j^N S_{Bj} v_j - 2 qP = 0$
+
+Donde $S$ es la matriz vieja (antes de incluir la proteína).
+Esto solo está aumentando el requerimiento de 'A' y 'B' en concordancia con la producción de proteína.
+
+
+Si cada mol de proteina gasta '$E_P$' unidades de energía, esto también afecta el balance de 'E' (energía o ATP).
+
+E: $\sum_j^N S_{Ej} v_j - E_P qP = 0$
+
+(Nota: Aqui seguro tienes que balancear adecuadamente las demas especies en la hidrólisis del ATP: ADP, P, H)
+
+
+Todo esto es lo mismo que añadirle una nueva columna $c \in R^N$ a $S$
+
+$c = [0, \dots, c_A = -1, \dots, c_B = -2, \dots, c_E = -E_P, \dots, 0]$
+
+Donde todo $c_i$ es cero menos los $c_X$ (valor en la posición del metabolito $X$) involucrados.
+
+La nueva $S$ quedaría:
+$S^P = [S; c^T]$

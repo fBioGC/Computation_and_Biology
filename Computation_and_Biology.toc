@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}{Introducci\IeC {\'o}n}}{1}{section.1}% 
+\contentsline {section}{\numberline {2}{Primera mitad del siglo XX}}{2}{section.2}% 
+\contentsline {section}{\numberline {3}{Segunda mitad del siglo XX}}{3}{section.3}% 
+\contentsline {section}{\numberline {4}{A\IeC {\~n}os 90's: Despegue de las \IeC {\'o}micas}}{6}{section.4}% 
+\contentsline {section}{\numberline {5}{Siglo XXI}}{7}{section.5}% 
+\contentsline {section}{\numberline {6}{Biolog\IeC {\'\i }a ``quo Vadis'' $^\dagger $}}{10}{section.6}% 
